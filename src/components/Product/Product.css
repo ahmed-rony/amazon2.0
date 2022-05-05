@@ -28,7 +28,7 @@ h1, h2,h3,h4,h5,h6,p{
 .product .product-stock{
     padding-top: 15px;
 }
-.product .product-btn{
+.product-btn{
     padding: 10px 35px;
     background: #12425e;
     border: 1px solid #000;

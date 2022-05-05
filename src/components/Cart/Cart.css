@@ -1,3 +1,16 @@
 p{
     padding: 5px 0;
 }
+.review-btn{
+    padding: 10px 35px;
+    background: #12425e;
+    border: 1px solid #000;
+    margin-top: 30px;
+    color: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    cursor: pointer;
+}
